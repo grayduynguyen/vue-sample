@@ -4,8 +4,6 @@
             <h4>What your name?</h4><br/>
             <input type="text" placeholder="First Name" name="FirstName" v-model="customer.firstName" />
             <input type="text" placeholder="Last Name" name="LastName" v-model="customer.lastName" />
-
-          
         </div>
 
         <div class="col-md-12">

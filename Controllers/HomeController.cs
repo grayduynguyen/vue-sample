@@ -4,9 +4,9 @@ using System.Diagnostics;
 using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
-using Vue_Sample.Models;
+using VueSample.Models;
 
-namespace Vue_Sample.Controllers
+namespace VueSample.Controllers
 {
     public class HomeController : Controller
     {

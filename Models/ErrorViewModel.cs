@@ -1,6 +1,6 @@
 using System;
 
-namespace Vue_Sample.Models
+namespace VueSample.Models
 {
     public class ErrorViewModel
     {

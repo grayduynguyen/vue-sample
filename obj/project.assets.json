@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Application\\Vue-Sample\\Vue-Sample\\Vue-Sample.csproj",
-      "projectName": "Vue-Sample",
-      "projectPath": "E:\\Application\\Vue-Sample\\Vue-Sample\\Vue-Sample.csproj",
+      "projectUniqueName": "E:\\vue-sample\\VueSample.csproj",
+      "projectName": "VueSample",
+      "projectPath": "E:\\vue-sample\\VueSample.csproj",
       "packagesPath": "C:\\Users\\nguye\\.nuget\\packages\\",
-      "outputPath": "E:\\Application\\Vue-Sample\\Vue-Sample\\obj\\",
+      "outputPath": "E:\\vue-sample\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
